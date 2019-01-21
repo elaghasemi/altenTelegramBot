@@ -25,7 +25,7 @@ Setup guid line:
 
 finished :)
 
-More detailed of read me is in the project root.readme.rtf
+More detailed of read me is in the project root with name readme.rtf
 
 
 
