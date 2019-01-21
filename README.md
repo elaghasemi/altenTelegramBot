@@ -1,6 +1,6 @@
 Alten Learn Swedish Telegram Bot:
 I try to develop an idea such as a mock project in few houres.Actually my goal was to 
-use some technologies with develop this service.
+use some technologies to develop this service.
 This is a simple Telegram bot service which shows you swedish lessons(3 sample lessons).
 By selecting the lesson button,it shows you the related words to learn.
 It could be the infrustructure for a telegram bot to add more features.
